@@ -69,7 +69,7 @@ Ini adalah proyek aplikasi Laravel yang dibangun untuk mengelola permintaan dan 
    Lalu lakukan Seeder database dengan perintah dibawah ini.   
 8. **Seed Database**
    ```bash
-   php artisan db:seed --class=UserSeeder
+   php artisan db:seed
    ```
 
 9. **Jalankan Server**
